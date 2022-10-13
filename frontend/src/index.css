@@ -1,0 +1,18 @@
+
+
+.eth-card {
+  background-color:#4c46a2;
+  background-image: 
+    radial-gradient(at 83% 67%, rgb(199, 199, 199) 0, transparent 58%), 
+}
+
+footer {
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
