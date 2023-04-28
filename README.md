@@ -1,48 +1,15 @@
-# E-COMMERCE DESENTRALIZADO  
-## Este projecto se creo con las siguientes tecnologias
+# E-COMMERCE WEB3 
 
+## ⚡  Stack
 - Django Rest Framework
 - React
-- Solidity
 - Redux
 - Tailwind css
-- VSCode
-- Linux
+- Solidity
 
+## Give it a star ⭐
 
-
-## Funcionalidades 
-
-- Autenticacion con Simple JWT
-- Login
-- Logout
-- Registro de usuarios
-- Actualizar perfil de usuario
-- Permisos de usuario (usuarios normales y usuario admin)
-- Rutas protegidads
-- Session de carrito
-- Ordenes de usuario en perfil
-- Formulario de envio
-- Stock de productos
-- Admin puede: Eliminar, Actualizar, borrar y leer productos
-- Admin puede: Eliminar, Actualizar y borrar usuarios
-- Admin puede: Ver todas las ordenes pendientes
-- Admin puede: ver todas las transacciones realizadas en la app con link a un Etherscan
-- Historial de transacciones en la blockchain realizadas en la app
-- Motor de busqueda para productos
-- Sistema de Reviews con estrellas (1 a 5)
-
-
-##
-
-Si te gusto dale una estrella
-
-## Tienes un proyecto en mente? Contanctame!
-
-- agustfricke@protonmail.com
-- LinkedIn: https://www.linkedin.com/in/agustin-fricke-888706248/
-- YouTube: https://www.youtube.com/channel/UC86aR_jiKs0b-qHWeQzX5Xw
-
+Check my YouTube channel: https://www.youtube.com/@techconagust
 
 
 ![e-com](https://user-images.githubusercontent.com/110266171/195731673-d6ca5681-19a0-4677-ae14-bd46e865a3df.png)
