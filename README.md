@@ -35,9 +35,7 @@
 
 ##
 
-## Prueblo ahora ==> http://e-commerce-web3.s3-website-sa-east-1.amazonaws.com/#/
-
-Si te gusto dale una estrella :)
+Si te gusto dale una estrella
 
 ## Tienes un proyecto en mente? Contanctame!
 
