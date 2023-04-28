@@ -1,4 +1,4 @@
-# E-COMMERCE DESENTRALIZADO EN LA RED DE ETHEREUM 
+# E-COMMERCE DESENTRALIZADO  
 ## Este projecto se creo con las siguientes tecnologias
 
 - Django Rest Framework
