@@ -1,4 +1,4 @@
-# E-COMMERCE WEB3 
+# Shop online web3
 
 ## ⚡  Stack
 - Django Rest Framework
